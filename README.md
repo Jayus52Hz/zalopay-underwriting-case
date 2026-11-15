@@ -1,6 +1,6 @@
 # Zalopay Underwriting Case
 
-Private working report for a synthetic CASHLOAN take-home case.
+Working report for a synthetic CASHLOAN take-home case.
 
 ## Review
 
@@ -13,3 +13,7 @@ Activity period: January-April 2026. Repayment-label snapshot: 15 June 2026. No 
 H2 is the primary acquisition finding. Operational incidents and label maturity remain unconfirmed without the missing logs and eligibility definitions. This report does not claim causal effects or loan losses.
 
 External research links require internet only when explicitly opened. No hosting/deployment or GitHub Pages is enabled by this repository.
+
+## Assignment brief
+
+[Original assignment brief](assignment/Assignment%20Brief%20v3.docx) is included as provided. The underlying case data is synthetic.
