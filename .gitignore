@@ -4,3 +4,7 @@
 !.gitignore
 !assignment/
 !assignment/Assignment Brief v3.docx
+!.gitattributes
+!data/
+!data/funnel_dod.csv
+!data/labels_dpd30_mob1.csv
